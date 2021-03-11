@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="txtViewCurrency">Currency converter</string>
+    <string name="btnConvert">Convert Currency</string>
+    <string name="hintTxtt">Enter Currency to convert</string>
+    <string name="radioBtnCanadian">Convert to Canadian dollars</string>
+    <string name="radioBtnPesos">Convert currency to Pesos</string>
+    <string name="radioBtnEuros">Convert currency to Euros</string>
+</resources>
